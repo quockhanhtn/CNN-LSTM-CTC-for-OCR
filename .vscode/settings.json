@@ -3,9 +3,12 @@
   "cSpell.words": [
     "LSTM",
     "blstm",
+    "dtype",
     "fnmatch",
     "fpath",
     "imread",
-    "relu"
+    "pytesseract",
+    "relu",
+    "tesseract"
   ]
 }
