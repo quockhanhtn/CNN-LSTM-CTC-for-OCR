@@ -88,4 +88,4 @@ cv2.imwrite(out_filename, image)
 # cv2.imshow("Image", image)
 # cv2.waitKey(0)
 
-# pyinstaller a.py --onefile --name get_local.exe --distpath ./
+# pyinstaller tesseract_detect_text_zone.py --onefile --name get_local.exe --distpath ./
