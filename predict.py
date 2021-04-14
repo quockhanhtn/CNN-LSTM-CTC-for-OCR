@@ -101,10 +101,11 @@ def main(args):
         )[0][0]
     )
 
+    print("\nResult---------------------\n")
     # see the results
     i = 0
     for x in out:
-        print("original_text =  ", test_label[i])
+        print("original text  =", test_label[i])
         print("predicted text = ", end="")
         for p in x:
             if int(p) != -1:
