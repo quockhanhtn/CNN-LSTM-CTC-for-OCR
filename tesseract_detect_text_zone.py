@@ -1,3 +1,5 @@
+# download tesseract install at https://github.com/UB-Mannheim/tesseract/wiki
+
 from pytesseract import Output
 import pytesseract
 import argparse
